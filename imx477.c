@@ -2361,3 +2361,5 @@ module_i2c_driver(imx477_i2c_driver);
 MODULE_AUTHOR("Naushir Patuck <naush@raspberrypi.com>");
 MODULE_DESCRIPTION("Sony IMX477 sensor driver");
 MODULE_LICENSE("GPL v2");
+
+//feature branch update
