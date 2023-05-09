@@ -20,7 +20,7 @@
 #include <media/v4l2-fwnode.h>
 #include <media/v4l2-mediabus.h>
 
-#include <linux/of_graph.h>//only for debug info. MC?????
+#include <linux/of_graph.h>//Change in tata master
 
 #define IMX477_REG_VALUE_08BIT		1
 #define IMX477_REG_VALUE_16BIT		2
